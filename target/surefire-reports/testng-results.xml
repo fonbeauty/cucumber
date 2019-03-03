@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ru.mystudy.RunTest" duration-ms="438" started-at="2019-03-03T21:02:15Z" finished-at="2019-03-03T21:02:16Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:ru.mystudy.RunTest@154909b]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Command line test" duration-ms="438" started-at="2019-03-03T21:02:15Z" finished-at="2019-03-03T21:02:16Z">
+      <class name="ru.mystudy.RunTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:ru.mystudy.RunTest@154909b]" name="setUpClass" is-config="true" duration-ms="361" started-at="2019-03-03T21:02:15Z" finished-at="2019-03-03T21:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:ru.mystudy.RunTest@154909b]" name="tearDownClass" is-config="true" duration-ms="11" started-at="2019-03-03T21:02:16Z" finished-at="2019-03-03T21:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- ru.mystudy.RunTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- ru.mystudy.RunTest -->
+</testng-results>
