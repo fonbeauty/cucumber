@@ -1,4 +1,4 @@
-package ru.mystudy;
+package ru.mystudy.stepDefinitions;
 
 import cucumber.api.java.ru.Дано;
 import cucumber.api.java.ru.Когда;

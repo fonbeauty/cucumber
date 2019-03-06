@@ -1,2 +1,3 @@
-ru\mystudy\MyStepdefs.class
-ru\mystudy\RunTest.class
+ru\mystudy\runner\RunTest.class
+ru\mystudy\stepDefinitions\CucumberExprStepDefs.class
+ru\mystudy\stepDefinitions\MyStepdefs.class

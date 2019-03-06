@@ -1,2 +1,3 @@
-C:\Users\фотина\IdeaProjects\cucumber\src\test\java\ru\mystudy\MyStepdefs.java
-C:\Users\фотина\IdeaProjects\cucumber\src\test\java\ru\mystudy\RunTest.java
+C:\Users\фотина\IdeaProjects\cucumber\src\test\java\ru\mystudy\runner\RunTest.java
+C:\Users\фотина\IdeaProjects\cucumber\src\test\java\ru\mystudy\stepDefinitions\CucumberExprStepDefs.java
+C:\Users\фотина\IdeaProjects\cucumber\src\test\java\ru\mystudy\stepDefinitions\MyStepdefs.java
